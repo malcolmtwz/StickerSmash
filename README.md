@@ -20,8 +20,7 @@ Expo and React Native Tutorial
 ### Image picker
 `npx expo install expo-image-picker`
 
-
-### Git tutorial by eliora
+### Git tutorial 
 # git status -> check your git status
 # git add .  -> Add all your work into current directory to commit
 # git commit -m "string" -> Usually to name your commits
