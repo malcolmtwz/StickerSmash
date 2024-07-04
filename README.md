@@ -27,3 +27,4 @@ Expo and React Native Tutorial
 # git commit -m "string" -> Usually to name your commits
 # git push   -> upload your commits into your system
 # git status -> Check whether your commits have been made
+# git add ../README.md  -> specify a file.
